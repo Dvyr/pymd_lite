@@ -1,0 +1,11 @@
+# md_proj0101_config.yml
+simulation:
+  deltaT: 0.005       # Time step for integration
+  density: 0.8        # System density
+  initUcell:          # Initial unit cell dimensions
+    x: 20
+    y: 20
+  stepAvg: 100        # Steps for averaging properties
+  stepEquil: 0        # Equilibration steps
+  stepLimit: 10000    # Total simulation steps
+  temperature: 1.0    # Target temperature
