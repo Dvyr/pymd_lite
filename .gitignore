@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
-jupyters
+project_building_notes/
+jupyters/
 __pycache__/
 *.py[cod]
 *$py.class
